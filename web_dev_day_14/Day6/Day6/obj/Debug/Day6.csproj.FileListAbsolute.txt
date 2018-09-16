@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Riga Coding School\projekti\Edya123_code\web_dev_day_14\Day6\Day6\obj\Debug\Day6.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Riga Coding School\projekti\Edya123_code\web_dev_day_14\Day6\Day6\obj\Debug\Day6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Riga Coding School\projekti\Edya123_code\web_dev_day_14\Day6\Day6\bin\Debug\Day6.exe.config
+C:\Users\User\Desktop\Riga Coding School\projekti\Edya123_code\web_dev_day_14\Day6\Day6\bin\Debug\Day6.exe
+C:\Users\User\Desktop\Riga Coding School\projekti\Edya123_code\web_dev_day_14\Day6\Day6\bin\Debug\Day6.pdb
+C:\Users\User\Desktop\Riga Coding School\projekti\Edya123_code\web_dev_day_14\Day6\Day6\obj\Debug\Day6.exe
+C:\Users\User\Desktop\Riga Coding School\projekti\Edya123_code\web_dev_day_14\Day6\Day6\obj\Debug\Day6.pdb
